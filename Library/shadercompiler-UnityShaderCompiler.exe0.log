@@ -1,2 +1,34 @@
-Base path: C:/Program Files/Unity/Editor/Data
+Base path: D:/Unity/Editor/Data
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=3745 outsize=2476 ok=1
+Cmd: preprocess
+  insize=1596 outsize=594 ok=1
+Cmd: preprocess
+  insize=12073 outsize=1960 ok=1
+Cmd: preprocess
+  insize=2254 outsize=883 ok=1
+Cmd: preprocess
+  insize=11647 outsize=1950 ok=1
+Cmd: preprocess
+  insize=2554 outsize=1743 ok=1
+Cmd: preprocess
+  insize=4923 outsize=2749 ok=1
+Cmd: preprocess
+  insize=2347 outsize=974 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1092 outsize=666 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1092 outsize=374 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=925 outsize=806 kw=SHADOWS_DEPTH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=925 outsize=430 kw=SHADOWS_DEPTH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA ok=1
+Cmd: preprocess
+  insize=10027 outsize=1638 ok=1
+Cmd: preprocess
+  insize=2954 outsize=1292 ok=1
+Cmd: preprocess
+  insize=11964 outsize=2147 ok=1
+Cmd: preprocess
+  insize=2729 outsize=1252 ok=1

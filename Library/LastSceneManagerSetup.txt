@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Examples/Getting Started/4 Object Oriented Sample.unity
+- path: Assets/Examples/Other Examples/Goblins.unity
   isLoaded: 1
   isActive: 1
